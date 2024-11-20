@@ -38,14 +38,14 @@ The platform aims to bridge emerging dance professionals with essential educatio
 For the sake of the capstone, I will be focusing only on the dancers dashboard.
 
 ## Link to the GitHub Repo
-[GitHub Repository](https://github.com/Nmesoma01/Capstone.git)  
+[GitHub Repository](https://github.com/Nmesoma01/Capstone-Project.git)  
 
 ## Setup Instructions
 To set up the environment and run the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Nmesoma01/Capstone.git  
+   git clone https://github.com/Nmesoma01/Capstone-Project.git  
    cd capstone
 
 ## Backend Setup
@@ -56,8 +56,9 @@ To set up the environment and run the project locally, follow these steps:
 2. **Create a .env file**: In the server directory, create a .env file and paste the following environment variables
    ```bash
    JWT_SECRET=c00cd39237c19c625425b6e432bd7c4c17f35cc14f2a302647ae12893fc2498124560eb03b30241c41a707588a62939bb31d804953a2a3cd99afdc1916c67748
-   MONGO_URI="mongodb://localhost:27017"
-   PORT=5000
+MONGO_URI=mongodb+srv://admin:admin123@artskhonnect.bulpg.mongodb.net/?retryWrites=true&w=majority&appName=artskhonnect
+PORT=5000
+GOOGLE_CLIENT_ID=941517684758-st1nc53ac5llhnbu45tldjv28125hut9.apps.googleusercontent.com
 
 3. **Install Dependencies**: Run the following command to install all backend dependencies:
    ```bash
@@ -95,8 +96,7 @@ The design mockups and app interfaces can be found in the [Designs](./Designs) d
 - Database (Mongo DB)
 - Development Tools (Node.js, Nodemon)
 
-## Deployment Plan
-My frontend would be deployed using **Vercel** while my Backend would be deployed using **Render**.
+Refer to [doc.md](./doc.md) file for more information on the Tech Stack Documentation.
 
 ## Video Demo
 A video demonstration of the application's functionalities can be found here https://drive.google.com/file/d/1Jpijto0YhnCSf4Bs8gJIOiEF9TyzN0e4/view?usp=sharing
