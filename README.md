@@ -56,9 +56,9 @@ To set up the environment and run the project locally, follow these steps:
 2. **Create a .env file**: In the server directory, create a .env file and paste the following environment variables
    ```bash
    JWT_SECRET=c00cd39237c19c625425b6e432bd7c4c17f35cc14f2a302647ae12893fc2498124560eb03b30241c41a707588a62939bb31d804953a2a3cd99afdc1916c67748
-MONGO_URI=mongodb+srv://admin:admin123@artskhonnect.bulpg.mongodb.net/?retryWrites=true&w=majority&appName=artskhonnect
-PORT=5000
-GOOGLE_CLIENT_ID=941517684758-st1nc53ac5llhnbu45tldjv28125hut9.apps.googleusercontent.com
+   MONGO_URI=mongodb+srv://admin:admin123@artskhonnect.bulpg.mongodb.net/?retryWrites=true&w=majority&appName=artskhonnect
+   PORT=5000
+   GOOGLE_CLIENT_ID=941517684758-st1nc53ac5llhnbu45tldjv28125hut9.apps.googleusercontent.com
 
 3. **Install Dependencies**: Run the following command to install all backend dependencies:
    ```bash
