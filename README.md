@@ -98,5 +98,8 @@ The design mockups and app interfaces can be found in the [Designs](./Designs) d
 
 Refer to [doc.md](./doc.md) file for more information on the Tech Stack Documentation.
 
+## Testing
+I conducted Unnittests and Integration Tests. Please refer to Chapter 4 and Section 4.3 of my Final Report here: https://docs.google.com/document/d/1CVq7i28kcSfarj298_TyFsxqII31Uick/edit?usp=drive_link&ouid=106549600832197020495&rtpof=true&sd=true
+
 ## Video Demo
-A video demonstration of the application's functionalities can be found here https://drive.google.com/file/d/1Jpijto0YhnCSf4Bs8gJIOiEF9TyzN0e4/view?usp=sharing
+A video demonstration of the application's functionalities can be found here https://drive.google.com/file/d/1QNgTFV5PO4LZR0nqjJAfzkr9QmOn3hPD/view?usp=drive_link
